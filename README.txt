@@ -1,0 +1,1 @@
+This Repository exemplifies a Shared Wallet implemented through the "Ethereum Blockchain Developer Bootcamp With Solidity (2022)" Udemy course.
